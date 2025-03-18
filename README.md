@@ -1,2 +1,3 @@
 # upweb
-All projects I have.
+This is my project repository
+Author: Sangrai
